@@ -1,0 +1,20 @@
+{
+  "name": "Lift Tracker Pro",
+  "short_name": "LiftTracker",
+  "start_url": "./lift-tracker-pro.html",
+  "display": "standalone",
+  "background_color": "#0a0c12",
+  "theme_color": "#d4af37",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
